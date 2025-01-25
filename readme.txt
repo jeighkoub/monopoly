@@ -1,8 +1,7 @@
-There's no player input to prove a point about monopoly not having player input. 
+There's no player input to prove a point about monopoly not having player input. Player always buys.
 
 
-
-
+Buying houses not implemented which makes the game last forever.
 
 #########
 
